@@ -1,3 +1,5 @@
+# This is the repo Github for an e-commerce store called "Dalo Estudio" which sells photographic supplies
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
